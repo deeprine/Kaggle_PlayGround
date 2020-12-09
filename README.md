@@ -1,2 +1,2 @@
 #### Kaggle
-* TAVE 동아리 - Kaggle Clone coding
+* https://www.kaggle.com/leeyongsung
